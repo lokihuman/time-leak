@@ -1,0 +1,5 @@
+{
+  "name": "Time Leak Analyzer",
+  "description": "A dynamic visualization of where your time goes, inspired by the 'Time Flow' concept. Input your daily habits to visualize leaks and get AI-powered expert advice.",
+  "requestFramePermissions": []
+}
